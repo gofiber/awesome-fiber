@@ -1,0 +1,13 @@
+on: [push, pull_request]
+
+name: CI
+jobs:
+  Linter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: max/awesome-lint@v2.0.0
+        with:
+        filename: README.md
