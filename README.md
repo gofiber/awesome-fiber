@@ -1,4 +1,4 @@
-# Awesome Fiber [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/badge/discord-join%20channel-7289DA)](https://gofiber.io/discord)
+# Awesome Fiber [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Discord](https://img.shields.io/badge/discord-join%20channel-7289DA)](https://gofiber.io/discord)
 
 <a href="https://gofiber.io">
   <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="Fiber Logo" align="left" style="margin-right: 25px" height=150>
@@ -141,5 +141,8 @@ Several benchmarks to compare Fiber with other frameworks.
 - [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark)
 
 
+### Contributing
+
+Contribution guidelines can be found on [CONTRIBUTING.md](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md)
 
 **Note:** Check finally: https://github.com/search?l=Go&p=3&q=fiber&type=Repositories, https://dev.to/search?q=fiber
