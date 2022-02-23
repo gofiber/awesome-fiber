@@ -1,7 +1,4 @@
-# Awesome Fiber
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Discord](https://img.shields.io/badge/discord-join%20channel-7289DA)](https://gofiber.io/discord)
-
+# Awesome Fiber [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/badge/discord-join%20channel-7289DA)](https://gofiber.io/discord)
 
 <a href="https://gofiber.io">
   <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="Fiber Logo" align="left" style="margin-right: 25px" height=150>
@@ -14,10 +11,10 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 
 ## Contents
 - [Middlewares](#middlewares)
- 	      - [Core](#core)
-        - [External](#external)
-        - [Contrib](#contrib)
-        - [Third Party](#third-party)
+ 	- [Core](#core)
+  - [External](#external)
+  - [Contrib](#contrib)
+  - [Third Party](#third-party)
 - [Boilerplates](#boilerplates)
 - [Recipes](#recipes)
 - [Tools](#tools)
