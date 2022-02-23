@@ -11,7 +11,7 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 
 ## Contents
 - [Middlewares](#middlewares)
- 	- [Core](#core)
+  - [Core](#core)
   - [External](#external)
   - [Contrib](#contrib)
   - [Third Party](#third-party)
@@ -59,6 +59,14 @@ List of externally hosted middleware modules and maintained by the [Fiber team](
 - [storage](https://github.com/gofiber/storage)
 - [template](https://github.com/gofiber/template)
 - [websocket](https://github.com/gofiber/websocket)
+
+### Contrib
+List of third party middlewares and maintained by the [Fiber team](https://github.com/orgs/gofiber/people) and fiber community.
+- [fibersentry](https://github.com/gofiber/contrib/tree/main/fibersentry)
+- [fiberzap](https://github.com/gofiber/contrib/tree/main/fiberzap)
+- [otelfiber](https://github.com/gofiber/contrib/tree/main/otelfiber)
+- [paseto](https://github.com/gofiber/contrib/tree/main/paseto)
+- [swagger](https://github.com/gofiber/contrib/tree/main/swagger)
 
 ### Third Party
 List of middlewares that are created by the Fiber community. **(WIP)**
