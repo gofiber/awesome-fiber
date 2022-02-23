@@ -1,5 +1,4 @@
 # Awesome Fiber
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Discord](https://img.shields.io/badge/discord-join%20channel-7289DA)](https://gofiber.io/discord)
 
@@ -15,7 +14,7 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 
 ## Contents
 - [Middlewares](#middlewares)
- 	- [Core](#core)
+ 	      - [Core](#core)
         - [External](#external)
         - [Contrib](#contrib)
         - [Third Party](#third-party)
