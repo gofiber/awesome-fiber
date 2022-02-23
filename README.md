@@ -13,8 +13,7 @@
 A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.
 <br>
 
-# Contents
-
+## Contents
 - [Middlewares](#middlewares)
   - [Core](#core)
   - [External](#external)
@@ -29,7 +28,7 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 ## Middlewares
 Where to discover Fiber middlewares.
 
-### Core
+## Core
 List of middlewares that are included within the Fiber framework.
 - [BasicAuth](https://github.com/gofiber/fiber/tree/master/middleware/basicauth)
 - [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache)
@@ -52,7 +51,7 @@ List of middlewares that are included within the Fiber framework.
 - [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip)
 - [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout)
 
-### External
+## External
 List of externally hosted middleware modules and maintained by the [Fiber team](https://github.com/orgs/gofiber/people).
 - [adaptor](https://github.com/gofiber/adaptor)
 - [helmet](https://github.com/gofiber/helmet)
@@ -65,18 +64,16 @@ List of externally hosted middleware modules and maintained by the [Fiber team](
 - [template](https://github.com/gofiber/template)
 - [websocket](https://github.com/gofiber/websocket)
 
-### Third Party
+## Third Party
 List of middlewares that are created by the Fiber community. **(WIP)**
 - [arsmn/fiber-swagger](https://github.com/arsmn/fiber-swagger)
 - [arsmn/fiber-casbin](https://github.com/arsmn/fiber-casbin)
 - [arsmn/fiber-introspect](https://github.com/arsmn/fiber-introspect)
 - [shareed2k/fiber_tracing](https://github.com/shareed2k/fiber_tracing)
 - [shareed2k/fiber_limiter](https://github.com/shareed2k/fiber_limiter)
-- [thomasvvugt/fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate)
 - [arsmn/gqlgen](https://github.com/arsmn/gqlgen)
 - [kiyonlin/fiber_limiter](https://github.com/kiyonlin/fiber_limiter)
 - [juandiii/go-jwk-security](https://github.com/juandiii/go-jwk-security)
-- [sujit-baniya/fiber-boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)
 - [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus)
 - [LdDl/fiber-long-poll](https://github.com/LdDl/fiber-long-poll)
 - [K0enM/fiber_vhost](https://github.com/K0enM/fiber_vhost)
