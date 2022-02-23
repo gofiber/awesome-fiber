@@ -15,10 +15,10 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 
 ## Contents
 - [Middlewares](#middlewares)
-  - [Core](#core)
-  - [External](#external)
-  - [Contrib](#contrib)
-  - [Third Party](#third-party)
+ 	- [Core](#core)
+        - [External](#external)
+        - [Contrib](#contrib)
+        - [Third Party](#third-party)
 - [Boilerplates](#boilerplates)
 - [Recipes](#recipes)
 - [Tools](#tools)
@@ -28,7 +28,7 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 ## Middlewares
 Where to discover Fiber middlewares.
 
-## Core
+### Core
 List of middlewares that are included within the Fiber framework.
 - [BasicAuth](https://github.com/gofiber/fiber/tree/master/middleware/basicauth)
 - [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache)
@@ -51,7 +51,7 @@ List of middlewares that are included within the Fiber framework.
 - [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip)
 - [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout)
 
-## External
+### External
 List of externally hosted middleware modules and maintained by the [Fiber team](https://github.com/orgs/gofiber/people).
 - [adaptor](https://github.com/gofiber/adaptor)
 - [helmet](https://github.com/gofiber/helmet)
@@ -64,7 +64,7 @@ List of externally hosted middleware modules and maintained by the [Fiber team](
 - [template](https://github.com/gofiber/template)
 - [websocket](https://github.com/gofiber/websocket)
 
-## Third Party
+### Third Party
 List of middlewares that are created by the Fiber community. **(WIP)**
 - [arsmn/fiber-swagger](https://github.com/arsmn/fiber-swagger)
 - [arsmn/fiber-casbin](https://github.com/arsmn/fiber-casbin)
