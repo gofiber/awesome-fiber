@@ -61,6 +61,7 @@ List of externally hosted middleware modules and maintained by the [Fiber team](
 - [websocket](https://github.com/gofiber/websocket)
 
 ### Contrib
+<!--lint ignore double-link-->
 List of third party middlewares and maintained by the [Fiber team](https://github.com/orgs/gofiber/people) and fiber community.
 - [fibersentry](https://github.com/gofiber/contrib/tree/main/fibersentry)
 - [fiberzap](https://github.com/gofiber/contrib/tree/main/fiberzap)
