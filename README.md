@@ -98,7 +98,7 @@ Premade boilerplates for Fiber. **(WIP)**
 
 ## 📁 Recipes
 Recipes for Fiber. **(WIP)**
-- [recipes](https://github.com/gofiber/recipes) - Official Fiber cookbook
+- [gofiber/recipes](https://github.com/gofiber/recipes) - Official Fiber cookbook
 - https://github.com/kiyonlin/fiblar-demo
 - https://github.com/koddr/tutorial-go-fiber-rest-api
 - https://github.com/firebase007/go-rest-api-with-fiber
