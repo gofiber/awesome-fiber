@@ -9,17 +9,17 @@
 A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.
 <br>
 
-## 🎯 Contents
-- [Middlewares](#middlewares)
-  - [Core](#core)
-  - [External](#external)
-  - [Contrib](#contrib)
-  - [Third Party](#third-party)
-- [Boilerplates](#boilerplates)
-- [Recipes](#recipes)
-- [Tools](#tools)
-- [Articles](#articles)
-- [Benchmarks](#benchmarks)
+## Contents
+- [⚙️ Middlewares](#middlewares)
+  - [🧬 Core](#core)
+  - [🔗 External](#external)
+  - [💻 Contrib](#contrib)
+  - [🌱 Third Party](#third-party)
+- [🚧 Boilerplates](#boilerplates)
+- [📁 Recipes](#recipes)
+- [🛠️ Tools](#tools)
+- [📖 Articles](#articles)
+- [🤖 Benchmarks](#benchmarks)
 
 ## ⚙️ Middlewares
 Where to discover Fiber middlewares.
@@ -27,7 +27,7 @@ Where to discover Fiber middlewares.
 ### 🧬 Core
 List of middlewares that are included within the Fiber framework.
 - [BasicAuth](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
-- [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses
+- [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
 - [Compress](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
 - [CORS](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
 - [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
@@ -35,12 +35,12 @@ List of middlewares that are included within the Fiber framework.
 - [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
 - [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
 - [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
-- [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary
+- [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
 - [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
 - [Logger](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
 - [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor
-- [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool
-- [Proxy](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers
+- [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
+- [Proxy](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
 - [Recover](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
 - [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
 - [Session](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
@@ -53,7 +53,7 @@ List of externally hosted middleware modules and maintained by the [Fiber team](
 - [helmet](https://github.com/gofiber/helmet) - Helps secure your apps by setting various HTTP headers.
 - [jwt](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
 - [keyauth](https://github.com/gofiber/keyauth) - Key auth middleware provides a key based authentication.
-- [redirect](https://github.com/gofiber/redirect) - Redirect middleware for Fiber
+- [redirect](https://github.com/gofiber/redirect) - Redirect middleware for Fiber.
 - [rewrite](https://github.com/gofiber/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
 - [storage](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
 - [template](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
@@ -98,7 +98,7 @@ Premade boilerplates for Fiber. **(WIP)**
 
 ## 📁 Recipes
 Recipes for Fiber. **(WIP)**
-- [gofiber/recipes](https://github.com/gofiber/recipes) - Official Fiber cookbook
+- [gofiber/recipes](https://github.com/gofiber/recipes) - Official Fiber cookbook.
 - https://github.com/kiyonlin/fiblar-demo
 - https://github.com/koddr/tutorial-go-fiber-rest-api
 - https://github.com/firebase007/go-rest-api-with-fiber
@@ -108,8 +108,8 @@ Recipes for Fiber. **(WIP)**
 
 ## 🛠️ Tools
 Several tools to make Fiber usage easier. **(WIP)**
-- [gofiber/cli](https://github.com/gofiber/cli) - Fiber Command Line Interface
-- [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of fiber
+- [gofiber/cli](https://github.com/gofiber/cli) - Fiber Command Line Interface.
+- [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
 ## 📖 Articles
