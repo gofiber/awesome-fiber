@@ -108,9 +108,9 @@ Recipes for Fiber. **(WIP)**
 
 ## 🛠️ Tools
 Several tools to make Fiber usage easier. **(WIP)**
-- [cli](https://github.com/gofiber/cli) - Fiber Command Line Interface
-- [dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of fiber
-- [gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
+- [gofiber/cli](https://github.com/gofiber/cli) - Fiber Command Line Interface
+- [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of fiber
+- [tompston/gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
 ## 📖 Articles
 Articles about Fiber written by the community.
