@@ -10,16 +10,16 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 <br>
 
 ## Contents
-- [⚙️ Middlewares](#middlewares)
-  - [🧬 Core](#core)
-  - [🔗 External](#external)
-  - [💻 Contrib](#contrib)
-  - [🌱 Third Party](#third-party)
-- [🚧 Boilerplates](#boilerplates)
-- [📁 Recipes](#recipes)
-- [🛠️ Tools](#tools)
-- [📖 Articles](#articles)
-- [🤖 Benchmarks](#benchmarks)
+- [⚙️ Middlewares](#%EF%B8%8F-middlewares)
+  - [🧬 Core](#-core)
+  - [🔗 External](#-external)
+  - [💻 Contrib](#-contrib)
+  - [🌱 Third Party](#-third-party)
+- [🚧 Boilerplates](#-boilerplates)
+- [📁 Recipes](#-recipes)
+- [🛠️ Tools](#%EF%B8%8F-tools)
+- [📖 Articles](#-articles)
+- [🤖 Benchmarks](#-benchmarks)
 
 ## ⚙️ Middlewares
 Where to discover Fiber middlewares.
@@ -38,7 +38,7 @@ List of middlewares that are included within the Fiber framework.
 - [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
 - [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
 - [Logger](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
-- [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor
+- [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
 - [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
 - [Proxy](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
 - [Recover](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
