@@ -71,7 +71,6 @@ List of third party middlewares and maintained by the Fiber team and community.
 List of middlewares that are created by the Fiber community. **(WIP)**
 - [arsmn/fiber-swagger](https://github.com/arsmn/fiber-swagger)
 - [arsmn/fiber-casbin](https://github.com/arsmn/fiber-casbin)
-- [arsmn/fiber-introspect](https://github.com/arsmn/fiber-introspect)
 - [shareed2k/fiber_tracing](https://github.com/shareed2k/fiber_tracing)
 - [shareed2k/fiber_limiter](https://github.com/shareed2k/fiber_limiter)
 - [arsmn/gqlgen](https://github.com/arsmn/gqlgen)
@@ -122,7 +121,6 @@ Articles about Fiber written by the community.
 - [Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
 - [Getting started with Fiber](https://dev.to/fenny/getting-started-with-fiber-36b6)
 - [Building an Express-style API in Go with Fiber](https://blog.logrocket.com/express-style-api-go-fiber/)
-- [The road to web-based authentication with Fiber](https://vugt.me/the-road-to-web-based-authentication-with-fiber/)
 - [Fiber v1.9.6 How to improve performance by 817% and stay fast, flexible and friendly?](https://dev.to/koddr/fiber-v1-9-5-how-to-improve-performance-by-817-and-stay-fast-flexible-and-friendly-2dp6)
 - [Create a travel list app with Go, Fiber, Angular, MongoDB and Google Cloud Secret Manager](https://blog.yongweilun.me/create-a-travel-list-app-with-go-fiber-angular-mongodb-and-google-cloud-secret-manager-ck9fgxy0p061pcss1xt1ubu8t)
 - [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
