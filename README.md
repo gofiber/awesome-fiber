@@ -11,6 +11,7 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 
 ## Contents
 <!--lint disable awesome-toc-->
+<!--lint disable awesome-git-repo-age-->
 - [⚙️ Middlewares](#%EF%B8%8F-middlewares)
   - [🧬 Core](#-core)
   - [🔗 External](#-external)
