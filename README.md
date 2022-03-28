@@ -141,5 +141,3 @@ Several benchmarks to compare Fiber with other frameworks.
 ### 👍 Contributing
 
 Contribution guidelines can be found on [CONTRIBUTING.md](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md)
-
-[//]: # (**Note:** Check finally: https://github.com/search?l=Go&p=3&q=fiber&type=Repositories, https://dev.to/search?q=fiber)
