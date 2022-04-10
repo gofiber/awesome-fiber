@@ -94,6 +94,7 @@ Premade boilerplates for Fiber.
 - [fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
 - [sujit-baniya/fiber-boilerplate](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
+- [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber. 
 - [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 
 
