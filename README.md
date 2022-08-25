@@ -91,6 +91,7 @@ List of middlewares that are created by the Fiber community.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+- [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 
 
 ## 🚧 Boilerplates
