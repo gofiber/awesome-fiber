@@ -141,6 +141,11 @@ Articles about Fiber written by the community.
 - [Blazing Fast Unit Tests - Fiber/fasthttp/http Internals](https://medium.com/trendyol-tech/golang-blazing-fast-unit-tests-fiber-fasthttp-http-internals-and-optimizing-http-server-tests-bbd1fe7b944b)
 - [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
 
+## 📺 Videos
+Video tutorials created by the community about Fiber.
+
+- [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
+
 ## 🤖 Benchmarks
 Several benchmarks to compare Fiber with other frameworks.
 - [TechEmpower](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=json) - Project provides performance measures across a wide field of web application frameworks.
