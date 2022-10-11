@@ -21,6 +21,7 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 - [📁 Recipes](#-recipes)
 - [🛠️ Tools](#%EF%B8%8F-tools)
 - [📖 Articles](#-articles)
+- [📺 Videos](#-videos)
 - [🤖 Benchmarks](#-benchmarks)
 
 ## ⚙️ Middlewares
@@ -140,10 +141,12 @@ Articles about Fiber written by the community.
 - [Welcome to Fiber — an Express.js styled web framework written in Go with ❤️](https://dev.to/koddr/welcome-to-fiber-an-express-js-styled-fastest-web-framework-written-with-on-golang-497)
 - [Blazing Fast Unit Tests - Fiber/fasthttp/http Internals](https://medium.com/trendyol-tech/golang-blazing-fast-unit-tests-fiber-fasthttp-http-internals-and-optimizing-http-server-tests-bbd1fe7b944b)
 
+
 ## 📺 Videos
 Video tutorials created by the community about Fiber.
 
 - [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
+
 
 ## 🤖 Benchmarks
 Several benchmarks to compare Fiber with other frameworks.
