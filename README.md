@@ -122,6 +122,7 @@ Recipes for Fiber.
 Several tools to make Fiber usage easier.
 - [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
+- [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
 
 ## 📖 Articles
 Articles about Fiber written by the community.
