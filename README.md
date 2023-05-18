@@ -15,17 +15,20 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 ## Contents
 <!--lint disable awesome-toc-->
 <!--lint disable awesome-git-repo-age-->
-- [⚙️ Middlewares](#%EF%B8%8F-middlewares)
-  - [🧬 Core](#-core)
-  - [🔗 External](#-external)
-  - [💻 Contrib](#-contrib)
-  - [🌱 Third Party](#-third-party)
-- [🚧 Boilerplates](#-boilerplates)
-- [📁 Recipes](#-recipes)
-- [🛠️ Tools](#%EF%B8%8F-tools)
-- [📖 Articles](#-articles)
-- [📺 Videos](#-videos)
-- [🤖 Benchmarks](#-benchmarks)
+- [Awesome Fiber ](#awesome-fiber-)
+  - [Contents](#contents)
+  - [⚙️ Middlewares](#️-middlewares)
+    - [🧬 Core](#-core)
+    - [🔗 External](#-external)
+    - [‍💻 Contrib](#-contrib)
+    - [🌱 Third Party](#-third-party)
+  - [🚧 Boilerplates](#-boilerplates)
+  - [📁 Recipes](#-recipes)
+  - [🛠️ Tools](#️-tools)
+  - [📖 Articles](#-articles)
+  - [📺 Videos](#-videos)
+  - [🤖 Benchmarks](#-benchmarks)
+    - [👍 Contributing](#-contributing)
 
 ## ⚙️ Middlewares
 Where to discover Fiber middlewares.
@@ -113,6 +116,7 @@ Premade boilerplates for Fiber.
 - [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber. 
 - [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 - [GalvinGao/gofiber-template](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
+- [mikhail-bigun/go-app-template](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 
 
 ## 📁 Recipes
