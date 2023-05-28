@@ -32,50 +32,54 @@ Where to discover Fiber middlewares.
 
 ### 🧬 Core
 List of middlewares that are included within the Fiber framework.
+- [Adaptor](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
 - [BasicAuth](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
 - [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
 - [Compress](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
 - [CORS](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
 - [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
+- [Earlydata](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - Early data support for Fiber.
 - [Encrypt Cookie](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
 - [EnvVar](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 - [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
 - [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
 - [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
 - [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
+- [Helmet](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - Helps secure your apps by setting various HTTP headers.
+- [Idempotency](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Idempotency middleware for Fiber allows for fault-tolerant APIs where duplicate requests.
+- [Keyauth](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - Key auth middleware provides a key based authentication.
 - [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
 - [Logger](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
 - [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
 - [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
 - [Proxy](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
 - [Recover](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
+- [Redirect](https://github.com/gofiber/fiber/tree/master/middleware/redirect) - Redirect middleware for Fiber.
 - [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
+- [Rewrite](https://github.com/gofiber/fiber/tree/master/middleware/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
 - [Session](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
 - [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
 - [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
 ### 🔗 External
 List of externally hosted middleware modules and maintained by the [Fiber team](https://github.com/orgs/gofiber/people).
-- [adaptor](https://github.com/gofiber/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
-- [helmet](https://github.com/gofiber/helmet) - Helps secure your apps by setting various HTTP headers.
-- [jwt](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
-- [keyauth](https://github.com/gofiber/keyauth) - Key auth middleware provides a key based authentication.
-- [redirect](https://github.com/gofiber/redirect) - Redirect middleware for Fiber.
-- [rewrite](https://github.com/gofiber/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
 - [storage](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
 - [template](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
-- [websocket](https://github.com/gofiber/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
+
 
 ### ‍💻 Contrib
 List of third party middlewares and maintained by the Fiber team and community.
 - [casbin](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
+- [fiberi18n](https://github.com/gofiber/contrib/tree/main/fiberi18n) - go-i18n support for Fiber.
 - [fibernewrelic](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
 - [fibersentry](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
 - [fiberzap](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
+- [jwt](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
 - [opafiber](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
 - [otelfiber](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
 - [paseto](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
 - [swagger](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
+- [websocket](https://github.com/gofiber/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
 
 ### 🌱 Third Party
 List of middlewares that are created by the Fiber community.
