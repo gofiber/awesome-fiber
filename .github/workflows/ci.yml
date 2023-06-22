@@ -1,6 +1,14 @@
-on: [push, pull_request]
-
 name: CI
+
+on:
+  push:
+    branches:
+      - "master"
+      - "main"
+  pull_request:
+    branches:
+      - "*"
+
 jobs:
   Linter:
     runs-on: ubuntu-latest
