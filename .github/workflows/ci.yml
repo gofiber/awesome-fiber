@@ -1,13 +1,19 @@
-on: [push, pull_request]
-
 name: CI
+
+on:
+  push:
+    branches:
+      - "master"
+      - "main"
+  pull_request:
+    branches:
+      - "*"
+
 jobs:
   Linter:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: max/awesome-lint@v2.0.0
-        with:
-          filename: README.md
+      - run: npx awesome-lint
