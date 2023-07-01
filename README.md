@@ -97,7 +97,7 @@ List of middlewares that are created by the Fiber community.
 - [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
 - [samber/slog-fiber](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 - [mikhail-bigun/fiberlogrus](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
-- [Idan-Fishman/validation](https://github.com/Idan-Fishman/validation) - Data validation middleware that validates sources such as the request body, query string parameters, and route parameters.
+- [Idan-Fishman/validation](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
 
 ## 🚧 Boilerplates
 Premade boilerplates for Fiber.
