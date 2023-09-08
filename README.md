@@ -15,17 +15,20 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 ## Contents
 <!--lint disable awesome-toc-->
 <!--lint disable awesome-git-repo-age-->
-- [⚙️ Middlewares](#%EF%B8%8F-middlewares)
-  - [🧬 Core](#-core)
-  - [🔗 External](#-external)
-  - [💻 Contrib](#-contrib)
-  - [🌱 Third Party](#-third-party)
-- [🚧 Boilerplates](#-boilerplates)
-- [📁 Recipes](#-recipes)
-- [🛠️ Tools](#%EF%B8%8F-tools)
-- [📖 Articles](#-articles)
-- [📺 Videos](#-videos)
-- [🤖 Benchmarks](#-benchmarks)
+- [Awesome Fiber ](#awesome-fiber)
+  - [Contents](#contents)
+  - [⚙️ Middlewares](#️-middlewares)
+    - [🧬 Core](#-core)
+    - [🔗 External](#-external)
+    - [‍💻 Contrib](#-contrib)
+    - [🌱 Third Party](#-third-party)
+  - [🚧 Boilerplates](#-boilerplates)
+  - [📁 Recipes](#-recipes)
+  - [🛠️ Tools](#️-tools)
+  - [📖 Articles](#-articles)
+  - [📺 Videos](#-videos)
+  - [🤖 Benchmarks](#-benchmarks)
+    - [👍 Contributing](#-contributing)
 
 ## ⚙️ Middlewares
 Where to discover Fiber middlewares.
@@ -98,6 +101,7 @@ List of middlewares that are created by the Fiber community.
 - [samber/slog-fiber](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 - [mikhail-bigun/fiberlogrus](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
 - [Idan-Fishman/fiber-bind](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
+- [rodrigoodhin/fiper](https://gitlab.com/rodrigoodhin/fiper) - FiPer is a library that provides Fiber with Role Based Access Control (RBAC) using JWT and with database persistence. Two ORM libraries are supported: Gorm and Bun.
 
 ## 🚧 Boilerplates
 Premade boilerplates for Fiber.
