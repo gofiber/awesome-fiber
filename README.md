@@ -28,7 +28,6 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
   - [📖 Articles](#-articles)
   - [📺 Videos](#-videos)
   - [🤖 Benchmarks](#-benchmarks)
-    - [👍 Contributing](#-contributing)
 
 ## ⚙️ Middlewares
 Where to discover Fiber middlewares.
