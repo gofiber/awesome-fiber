@@ -15,19 +15,17 @@ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and
 ## Contents
 <!--lint disable awesome-toc-->
 <!--lint disable awesome-git-repo-age-->
-- [Awesome Fiber ](#awesome-fiber)
-  - [Contents](#contents)
-  - [⚙️ Middlewares](#️-middlewares)
-    - [🧬 Core](#-core)
-    - [🔗 External](#-external)
-    - [‍💻 Contrib](#-contrib)
-    - [🌱 Third Party](#-third-party)
-  - [🚧 Boilerplates](#-boilerplates)
-  - [📁 Recipes](#-recipes)
-  - [🛠️ Tools](#️-tools)
-  - [📖 Articles](#-articles)
-  - [📺 Videos](#-videos)
-  - [🤖 Benchmarks](#-benchmarks)
+- [⚙️ Middlewares](#%EF%B8%8F-middlewares)
+  - [🧬 Core](#-core)
+  - [🔗 External](#-external)
+  - [💻 Contrib](#-contrib)
+  - [🌱 Third Party](#-third-party)
+- [🚧 Boilerplates](#-boilerplates)
+- [📁 Recipes](#-recipes)
+- [🛠️ Tools](#%EF%B8%8F-tools)
+- [📖 Articles](#-articles)
+- [📺 Videos](#-videos)
+- [🤖 Benchmarks](#-benchmarks)
 
 ## ⚙️ Middlewares
 Where to discover Fiber middlewares.
