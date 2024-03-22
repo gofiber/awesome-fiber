@@ -74,7 +74,6 @@ List of third party middlewares and maintained by the Fiber team and community.
 - [fibernewrelic](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
 - [fibersentry](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
 - [fiberzap](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
-- [gofiber-minifier](https://github.com/beyer-stefan/gofiber-minifier) - Minifying middleware for HTML5, CSS3, and JavaScript.
 - [jwt](https://github.com/gofiber/contrib/tree/main/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
 - [opafiber](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
 - [otelfiber](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
@@ -93,6 +92,7 @@ List of middlewares that are created by the Fiber community.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+- [gofiber-minifier](https://github.com/beyer-stefan/gofiber-minifier) - Minifying middleware for HTML5, CSS3, and JavaScript.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 - [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
 - [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
