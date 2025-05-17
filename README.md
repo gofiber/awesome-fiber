@@ -95,7 +95,7 @@ List of third party middlewares and maintained by the Fiber team and community.
 List of middlewares that are created by the Fiber community.
 
 - [shareed2k/fiber_tracing](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
-- [narmadaweb/limiter](https://github.com/narmadaweb/limiter) - Limiter using redis and three algorithm like fixed-window, sliding-window and token-bucket for fiber.
+- [shareed2k/fiber_limiter](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
 - [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
 - [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
 - [aschenmaker/fiber-health-check](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
@@ -103,7 +103,7 @@ List of middlewares that are created by the Fiber community.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
-- [narmadaweb/gonify](https://github.com/narmadaweb/gonify) - Fiber Minifying middleware for HTML5, CSS3, JavaScript, Json, XML and SVG.
+- [beyer-stefan/gofiber-minifier](https://github.com/beyer-stefan/gofiber-minifier) - Minifying middleware for HTML5, CSS3, and JavaScript.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 - [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
 - [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
@@ -118,6 +118,8 @@ List of middlewares that are created by the Fiber community.
 - [streamerd/fibergun](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
 - [apitally/apitally-go](https://github.com/apitally/apitally-go) - Simple API monitoring tool for Fiber. Tracks API usage, errors, and performance, and includes request logging and alerting features.
 - [newrelic/go-agent](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
+- [narmadaweb/limiter](https://github.com/narmadaweb/limiter) - Limiter using redis and three algorithm like fixed-window, sliding-window and token-bucket for fiber.
+- [narmadaweb/gonify](https://github.com/narmadaweb/gonify) - Fiber Minifying middleware for HTML5, CSS3, JavaScript, Json, XML and SVG.
 
 ## 🚧 Boilerplates
 
