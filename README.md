@@ -174,6 +174,7 @@ Several tools to make Fiber usage easier.
 - [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or Docker image to serve frontend and load balancer applications.
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 - [Alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
+- [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
 
 ## 📖 Articles
 
