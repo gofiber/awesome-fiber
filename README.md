@@ -151,6 +151,7 @@ Premade boilerplates for Fiber.
 - [ingeniousambivert/fiber-bootstrapped](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS.
 - [sebajax/go-vertical-slice-architecture](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
 - [go-rat/fiber-skeleton](https://github.com/go-rat/fiber-skeleton) - Fiber skeleton to powers web projects, support wire-based dependency injection.
+- [rachmanzz/fiber-starter](https://github.com/rachmanzz/fiber-starter) - A production-ready Go backend boilerplate using Fiber v3, PostgreSQL (pgx v5), and SQLC.
 
 ## 📁 Recipes
 
