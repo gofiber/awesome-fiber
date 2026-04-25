@@ -163,6 +163,7 @@ Recipes for Fiber.
 - [chawk/go_fiber_quickstart](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
 - [EricLau1/go-fiber-auth-api](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 - [alpody/golang-fiber-realworld-example-app](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
+- [kubestellar/console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
 - [paundraP/golang-starter-template](https://github.com/paundraP/Go-Starter-Template) - Golang REST API with authentication, authorization, and integrated payment gateway support.
 
 ## 🛠️ Tools
