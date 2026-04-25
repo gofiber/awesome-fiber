@@ -163,6 +163,7 @@ Recipes for Fiber.
 - [chawk/go_fiber_quickstart](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
 - [EricLau1/go-fiber-auth-api](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 - [alpody/golang-fiber-realworld-example-app](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
+- [kubestellar/console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
 - [paundraP/golang-starter-template](https://github.com/paundraP/Go-Starter-Template) - Golang REST API with authentication, authorization, and integrated payment gateway support.
 
 ## 🛠️ Tools
@@ -175,7 +176,6 @@ Several tools to make Fiber usage easier.
 - [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
 - [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or Docker image to serve frontend and load balancer applications.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
-- [kubestellar/console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
 
 ## 📖 Articles
 
