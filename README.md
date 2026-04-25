@@ -175,6 +175,7 @@ Several tools to make Fiber usage easier.
 - [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
 - [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or Docker image to serve frontend and load balancer applications.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
+- [kubestellar/console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
 
 ## 📖 Articles
 
