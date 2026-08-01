@@ -56,7 +56,7 @@ List of middlewares that are included within the Fiber framework.
 - [Keyauth](https://github.com/gofiber/fiber/tree/main/middleware/keyauth) - Key auth middleware provides a key based authentication.
 - [Limiter](https://github.com/gofiber/fiber/tree/main/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
 - [Logger](https://github.com/gofiber/fiber/tree/main/middleware/logger) - HTTP request/response logger.
-- [Paginate](https://github.com/gofiber/fiber/tree/main/middleware/paginate) - Parses pagination parameters from the query string, supporting page, offset and cursor based strategies.
+- [Paginate](https://github.com/gofiber/fiber/tree/main/middleware/paginate) - Parses pagination parameters from the query string, supporting page-based, offset-based and cursor-based strategies.
 - [Pprof](https://github.com/gofiber/fiber/tree/main/middleware/pprof) - Serves runtime profiling data in the format expected by the pprof visualization tool.
 - [Proxy](https://github.com/gofiber/fiber/tree/main/middleware/proxy) - Allows you to proxy requests to a multiple servers.
 - [Recover](https://github.com/gofiber/fiber/tree/main/middleware/recover) - Recovers from panics anywhere in the stack chain and hands control to the centralized ErrorHandler.
