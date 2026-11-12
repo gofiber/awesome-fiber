@@ -140,6 +140,7 @@ List of middlewares that are created by the Fiber community.
 - [narmadaweb/gonify](https://github.com/narmadaweb/gonify) - Fiber Minifying middleware for HTML5, CSS3, JavaScript, Json, XML and SVG.
 - [oaswrap/fiberopenapi](https://github.com/oaswrap/spec/tree/main/adapter/fiberopenapi) - Fiber adapter for OpenAPI 3.x specification generation with automatic route documentation.
 - [Guard-Core/fiber-guard](https://github.com/Guard-Core/fiber-guard) - Security middleware for Fiber with IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
+- [z2n-oss/fiber-sessionmanager](https://github.com/z2n-oss/fiber-sessionmanager) - Named, typed sessions for Go Fiber v3, with configurable serialization and explicit background access.
 
 ## 🚧 Boilerplates
 
