@@ -43,6 +43,7 @@ List of middlewares that are included within the Fiber framework.
 - [Compress](https://github.com/gofiber/fiber/tree/main/middleware/compress) - Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
 - [CORS](https://github.com/gofiber/fiber/tree/main/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
 - [CSRF](https://github.com/gofiber/fiber/tree/main/middleware/csrf) - Protect from CSRF exploits.
+- [Deprecation](https://github.com/gofiber/fiber/tree/main/middleware/deprecation) - Marks routes as deprecated or scheduled for removal with the `Deprecation` (RFC 9745) and `Sunset` (RFC 8594) headers.
 - [Earlydata](https://github.com/gofiber/fiber/tree/main/middleware/earlydata) - Early data support for Fiber.
 - [Encrypt Cookie](https://github.com/gofiber/fiber/tree/main/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
 - [EnvVar](https://github.com/gofiber/fiber/tree/main/middleware/envvar) - Expose environment variables with providing an optional config.
